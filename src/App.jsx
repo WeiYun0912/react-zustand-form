@@ -4,12 +4,6 @@ import TodoForm from "./TodoForm";
 import Todos from "./Todos";
 
 function App() {
-  console.log("test");
-
-  console.log("test");
-
-  console.log("aaa");
-
   return (
     <>
       <TodoForm />
