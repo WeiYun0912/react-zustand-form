@@ -5,6 +5,9 @@ import Todos from "./Todos";
 
 function App() {
   console.log("test");
+
+  console.log("test");
+
   return (
     <>
       <TodoForm />
