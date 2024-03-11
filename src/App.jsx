@@ -8,6 +8,8 @@ function App() {
 
   console.log("test");
 
+  console.log("aaa");
+
   return (
     <>
       <TodoForm />
